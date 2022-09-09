@@ -25,7 +25,11 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-Hey, I'm **Shubham Somwanshi**, a Computer Science graduate from <b>College of Engineering, Pune</b>, one of Asia's oldest engineering colleges. I love to work with end to end applications and develop code to automate and build stuff. My main interests are in the field of Full Stack Development, Computer Networks and Systems Programming.  
+Hey, I'm **Shubham Somwanshi**, who is a highly motivated person with strong technical, problem-solving with excellent time management, leadership, and team skills who is likely to create an impact on the organization/work, I'm a part of and always loves to socialize and experience new things in life. 
+
+<br />
+<br />
+I'm a Computer Science graduate from <b>College of Engineering, Pune</b>, one of Asia's oldest engineering colleges. I love to work with end to end applications. My main interests are in the field of Web Development, Computer Networks.  
 
 
 Happy Coding!
