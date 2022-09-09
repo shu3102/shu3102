@@ -14,3 +14,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### Hello, I'm Shubham Somwanshi
+
+[![Gmail](https://img.shields.io/badge/Gmail-BB001B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhams3102@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-somwanshi-66b07a1b6/)
+[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ShubhamSomwan16)
+
+<br />
+<br />
+
+Hey, I'm **Shubham Somwanshi**, a Computer Science graduate from <b>College of Engineering, Pune</b>, one of Asia's oldest engineering colleges. I love to work with end to end applications and develop code to automate and build stuff. My main interests are in the field of Full Stack Development, Computer Networks and Systems Programming.  
+
+
+Happy Coding!
+
+- 🌱 I’m exploring Networking.
+- 🔭 I love to design digital illustrations. 
+- 💬 Ask me about Python, C, or Flutter.
+
+
+**Languages and Tools:**  
+<p>
+  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img alt = "cpp" src="https://img.shields.io/badge/C++-cyan?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img alt = "Git" src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=white">
+</p>
