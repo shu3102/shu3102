@@ -50,7 +50,8 @@ Happy Coding!
 
 
 
-![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=shu3102&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shu3102&&hide=scss,prolog&&langs_count=8&layout=compact&show_icons=true&theme=radical)](https://github.com/shu3102/github-readme-stats)
+![Shubham github stats](https://github-readme-stats.vercel.app/api?username=shu3102&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shu3102&&hide=scss,prolog&&langs_count=8&layout=compact&show_icons=true&theme=radical)](https://github.com/shu3102/github-readme-stats)
+
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=shu3102.shu3102)
