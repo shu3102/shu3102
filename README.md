@@ -47,3 +47,11 @@ Happy Coding!
   <img alt = "cpp" src="https://img.shields.io/badge/C++-cyan?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img alt = "Git" src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=white">
 </p>
+
+
+
+![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=shu3102&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shu3102&&hide=scss,prolog&&langs_count=8&layout=compact&show_icons=true&theme=radical)](https://github.com/shu3102/github-readme-stats)
+
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=shu3102.shu3102)
+~                                                                            
